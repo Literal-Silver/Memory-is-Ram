@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "memory-is-ram",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "A small independent store for all your geeky needs",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Edmund Miller <edmund.a.miller@gmail.com>",
   "dependencies": {
     "gatsby": "^2.13.6",
     "gatsby-image": "^2.2.4",
@@ -23,9 +23,7 @@
   "devDependencies": {
     "prettier": "^1.18.2"
   },
-  "keywords": [
-    "gatsby"
-  ],
+  "keywords": ["gatsby"],
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",

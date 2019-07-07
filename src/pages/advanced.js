@@ -7,8 +7,8 @@ import SEO from "../components/seo"
 import Skus from "../components/Products/Skus"
 const AdvancedExamplePage = () => (
   <Layout>
-    <SEO title="Advanced Example" />
-    <h1>This is the advanced example</h1>
+    <SEO title="Light Sabers" />
+    <h1>Light Sabers</h1>
     <Skus />{" "}
   </Layout>
 )
